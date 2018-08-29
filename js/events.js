@@ -18,3 +18,7 @@ function frameIt() {
     $('img').addClass('tasty');
   })
 }
+
+function pressIt() {
+  $('')
+}
